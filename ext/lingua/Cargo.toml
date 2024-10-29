@@ -10,5 +10,5 @@ publish = false
 crate-type = ["cdylib"]
 
 [dependencies]
-lingua = { version = "1.4.0" }
-magnus = { version = "0.4" }
+lingua = { version = "1.6.2" }
+magnus = { version = "0.7.1" }
